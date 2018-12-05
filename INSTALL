@@ -1,0 +1,5 @@
+Eclipse Release 4.6.0（Neon）
+JDK1.8.0_144
+配置JAVAFX：
+点击该项目Tree，右键Properties，点击Java Build Path，add libraries，添加ext文件夹中的jfxrt.jar文件即可。
+运行该项目：有两个选择，一是运行layout类，实现用户操作界面，供用户选择何种便利方式来进行；二是testTree类，直接在输出端输出每种方法对应的输出结果。
